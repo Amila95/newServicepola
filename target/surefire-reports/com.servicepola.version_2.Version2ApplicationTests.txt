@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.servicepola.version_2.Version2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.966 s - in com.servicepola.version_2.Version2ApplicationTests
